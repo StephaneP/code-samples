@@ -12,7 +12,7 @@
   "author": "Boris Dinkevich",
   "license": "Proprietary",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "deep-freeze": "0.0.1",
     "redux": "3.5.2",
     "redux-actions": "0.10.1",
